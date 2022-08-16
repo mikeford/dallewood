@@ -32,7 +32,7 @@ In these, you'll notice each command comes with several options. For example, wh
 
 When it comes to `zoom`, the most important options are `--duration`, `crop`, and `easing`.
 
-- `--duration` (`-d`) specifies the length of the the video to be output
+- `--duration` (`-d`) specifies the length, in seconds, of the video to be output
 - `--crop` specifies the floating point percentage frame N occupies within frame N+1 for the entire sequence
 - `--easing` specifies which animation timing function, otherwise known as *easing*, the video should follow. The choice of this setting dramatically affects the overall feel of your video.
 
