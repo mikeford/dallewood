@@ -29,11 +29,8 @@ var cfgFile string
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "dallewood",
-	Short: "A CLI to convert uncropped DALL·E 2 images into stunning videos",
-	Long: `A longer description that spans multiple lines and likely contains
-examples and usage of using your application. For example:
-
-A CLI to convert uncropped DALL·E 2 images into stunning videos`,
+	Short: "A CLI to convert uncropped DALL·E 2 images into infinite zoom videos",
+	Long:  `A CLI to convert uncropped DALL·E 2 images into infinite zoom videos`,
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
