@@ -1,6 +1,12 @@
 # dallewood
 A CLI to convert uncropped DALL·E 2 images into infinite zoom videos
 
+
+
+https://user-images.githubusercontent.com/1922944/184796256-95d55338-d19b-4a97-b904-8f47af416d54.mp4
+
+
+
 ## Getting Started
 ### Dependencies
 You must have the following installed:
